@@ -1,0 +1,94 @@
+{% load static %}{% load i18n %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{% block title %}Dr. Pharmacy{% endblock %}</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="layout" content="main" />
+        <link rel="stylesheet" href="{% get_static_prefix %}style.css" />
+        <link rel="stylesheet" href="{% get_static_prefix %}msie.css" />
+        <link rel="stylesheet" href="{% get_static_prefix %}forms.css" />
+        <!--<link rel="stylesheet" href="{% get_static_prefix %}main.css" />-->
+        <link rel="stylesheet" href="{% get_static_prefix %}table_style.css" />
+        <link href="{% get_static_prefix %}jquery-ui-1.8.18.custom.css" rel="stylesheet" type="text/css"/>
+        <style>
+        	.ui-autocomplete-loading { background: white url('{% get_static_prefix %}images/spinner_16x16.gif') right center no-repeat; }
+        </style>
+        <script type="text/javascript" src="{% get_static_prefix %}js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="{% get_static_prefix %}js/jquery-ui-1.8.18.custom.min.js"></script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.4/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="{% get_static_prefix %}js/ISA-Plot.js"></script>
+        <script type="text/javascript" src="{% get_static_prefix %}js/base.js"></script>
+        <script type="text/javascript" src="{% get_static_prefix %}js/tooltips.js"></script>
+		<script type="text/javascript" src="{% get_static_prefix %}jqplot/jquery.jqplot.min.js"></script>
+		<script type="text/javascript" src="{% get_static_prefix %}jqplot/plugins/jqplot.dateAxisRenderer.min.js"></script>
+		<script type="text/javascript" src="{% get_static_prefix %}jqplot/plugins/jqplot.cursor.min.js"></script>
+		<script type="text/javascript" src="{% get_static_prefix %}jqplot/plugins/jqplot.highlighter.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="{% get_static_prefix %}jqplot/jquery.jqplot.min.css" />
+		
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.4/css/demo_table.min.css" />
+		<!--link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/css/base/jquery.ui.all.css" />
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/css/base/minified/jquery.ui.theme.min.css" />
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.4/css/jquery.dataTables.min.css" />
+		<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.4/css/jquery.dataTables_themeroller.min.css" /-->
+		
+		<script type="text/javascript" src="{% get_static_prefix %}js/interface.js"></script>
+		<script type="text/javascript" src="{% get_static_prefix %}js/jquery.form.js"></script>
+    </head>
+    <body>
+        <div id="centercontent">
+            <div id="contentheader" style="overflow: hidden;">
+                <div id="banner">
+                	<h1>Doctors' Pharmacy</h1>
+                    <!--img src="{% get_static_prefix %}images/" id="logo" /-->
+                </div>
+                <div id="topright">
+                    <div id="newlogin">
+                        <!-- add login information here -->
+                    </div>
+                    <div id="nav_container" style="position:absolute; top:60px">
+                    <div id="navigatemenu">
+                        {% block nav %}
+                        <ul id="nav">
+                            <li>
+                                <a href="{{ ROOT }}/home" {% if murlpos == 'status' %}class="menuselected"{% endif %}>Home</a>
+                            </li>
+                        </ul>
+                        {% endblock %}
+                    </div>
+                    </div>
+                    <div style="clear:both;"></div>
+                    <div id="tabmenus" >
+                        {% block tabmenu %}
+                            &nbsp;
+                        {% endblock %}
+                    </div>
+                </div>
+            </div>
+            {% if messages %}
+            <div>
+                {% for message in messages %}
+                    <div style="display:block;width:80%;margin:auto;margin-bottom:12px;">
+                        <div {% if message.tags %} class="{{ message.tags }}" {% endif %} style="position:relative">{{message}}</div>
+                    </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            <div id="contentbody">
+            {% block content %}
+            	Empty body..
+            {% endblock %}
+            </div>
+        </div>
+        <div style="overflow: hidden; height:100px; margin-top:0px;">
+            <div id="footer">
+                <p style="float:left;">&copy; <a href="mailto:aazhbd@yahoo.com">aazhbd@yahoo.com</a></p>
+                <!-- <div style="float:right; width: 200px; height: 20px;">
+                    <form action="{{ ROOT }}/i18n/setlang/" method="post">{% csrf_token %}<input name="language"  type="hidden" value="de" /><input type="submit" value="Deutsch" style="font-size:8px; display: inline; float: left;"/></form>
+                    <form action="{{ ROOT }}/i18n/setlang/" method="post">{% csrf_token %}<input name="language"  type="hidden" value="en" /><input type="submit" value="English" style="font-size:8px; display: inline; float: left;"/></form>
+                </div>
+                -->
+            </div>
+        </div>
+    </body>
+</html>

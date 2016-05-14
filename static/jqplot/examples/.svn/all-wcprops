@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/subversion/RVM-Sources/!svn/ver/8441/sources/RVM-Server/trunk/SiMon/static/jqplot/examples
+END
+barLineAnimated.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/barLineAnimated.html
+END
+waterfall.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/waterfall.html
+END
+pie-donut-charts.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/pie-donut-charts.html
+END
+axisLabelTests.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/axisLabelTests.html
+END
+ajax-loader.gif
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/ajax-loader.gif
+END
+kcp_cdf.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_cdf.html
+END
+nav.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/nav.inc
+END
+bubble-plots.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/bubble-plots.html
+END
+rotated-tick-labels.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/rotated-tick-labels.html
+END
+dashboardWidget.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/dashboardWidget.html
+END
+kcp_pyramid.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_pyramid.html
+END
+rotatedTickLabelsZoom.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/rotatedTickLabelsZoom.html
+END
+candlestick-charts.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/candlestick-charts.html
+END
+cursor-highlighter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/cursor-highlighter.html
+END
+line-charts.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/line-charts.html
+END
+bubbleChart.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/bubbleChart.html
+END
+hiddenPlotsInTabs.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/hiddenPlotsInTabs.html
+END
+yahooData.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/yahooData.js
+END
+zooming.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/zooming.html
+END
+example.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/example.min.js
+END
+point-labels.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/point-labels.html
+END
+dateAxisRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/dateAxisRenderer.html
+END
+smoothedLine.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/smoothedLine.html
+END
+customHighlighterCursorTrendline.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/customHighlighterCursorTrendline.html
+END
+dateAxisLogAxisZooming.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/dateAxisLogAxisZooming.html
+END
+topbanner.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/topbanner.inc
+END
+zoomOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/zoomOptions.html
+END
+data-renderers.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/data-renderers.html
+END
+waterfall2.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/waterfall2.html
+END
+barTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/barTest.html
+END
+zoom1.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/zoom1.html
+END
+area.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/area.html
+END
+jsondata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/jsondata.txt
+END
+dashedLines.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/dashedLines.html
+END
+candlestick.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/candlestick.html
+END
+axisScalingForceTickAt.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/axisScalingForceTickAt.html
+END
+bandedLine.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/bandedLine.html
+END
+bar-charts.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/bar-charts.html
+END
+zoomProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/zoomProxy.html
+END
+kcp_engel.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_engel.html
+END
+KCPsample4.csv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/KCPsample4.csv
+END
+fillBetweenLines.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/fillBetweenLines.html
+END
+theming.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/theming.html
+END
+pieTest4.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/pieTest4.html
+END
+examples.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/examples.css
+END
+example.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/example.js
+END
+kcp_area.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_area.html
+END
+pieTest2.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/pieTest2.js
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/.htaccess
+END
+pieTest.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/pieTest.html
+END
+axisLabelsRotatedText.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/axisLabelsRotatedText.html
+END
+resizablePlot.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/resizablePlot.html
+END
+examples.min.css
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/examples.min.css
+END
+kcp_pyramid2.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_pyramid2.html
+END
+bezierCurve.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/bezierCurve.html
+END
+meterGauge.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/meterGauge.html
+END
+blockPlot.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/blockPlot.html
+END
+yahooData.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/yahooData.min.js
+END
+kcp_lorenz.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_lorenz.html
+END
+kcp_pdf.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/kcp_pdf.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/index.html
+END
+date-axes.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/date-axes.html
+END
+mekkoCharts.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/subversion/RVM-Sources/!svn/ver/8439/sources/RVM-Server/trunk/SiMon/static/jqplot/examples/mekkoCharts.html
+END

@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% load static %}{% load i18n %}
+{% block title %} Home {% endblock %}
+
+{% block content %}
+<div class="homemsg">
+	{% if msg_body %}
+		<p>{{msg_body}}</p>
+	{% endif %}
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+        $('#sortedtable').dataTable(
+        	{"sPaginationType": "full_numbers"}
+        );
+	} );
+</script>
+
+<table cellpadding="0" cellspacing="0" border="0" class="display" width="100%" id="sortedtable">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Dose</th>
+			<th>Manufacturer</th>
+			<th>Ingridient1</th>
+			<th>Ingridient2</th>
+			<th>Ingridient3</th>
+			<th>Brand</th>
+			<th>Packet Size</th>
+			<th>Strength</th>
+			<th>Dose Type</th>
+			<th>Price</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<th>Name</th>
+			<th>Dose</th>
+			<th>Manufacturer</th>
+			<th>Ingridient1</th>
+			<th>Ingridient2</th>
+			<th>Ingridient3</th>
+			<th>Brand</th>
+			<th>Packet Size</th>
+			<th>Strength</th>
+			<th>Dose Type</th>
+			<th>Price</th>
+		</tr>
+	</tfoot>
+	<tbody>
+		{% for m in products %}
+		<tr>
+			<td>{{m.name}}</td>
+			<td>{{m.dosage_form}}</td>
+			<td>{{m.manufacturer}}</td>
+			<td>{{m.ingridient1}}</td>
+			<td>{{m.ingridient2}}</td>
+			<td>{{m.ingridient3}}</td>
+			<td>{{m.pbrand}}</td>
+			<td>{{m.packet_size}}</td>
+			<td>{{m.strength}}</td>
+			<td>{{m.dose_type}}</td>
+			<td>{{m.price}}</td>
+			<!-- <td>{% if m.isactive %} Yes {% else %} No {% endif %}</td> -->
+		</tr>
+		{% endfor %}
+</table>
+
+{% endblock %}
